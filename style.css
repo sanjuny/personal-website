@@ -1,0 +1,10 @@
+/* .img-1{
+    width: 400px;
+    height: 400px;
+} */
+.my-work .work-slider .work-image img {
+    height: 200px;
+
+    border-radius: 15px!important;
+    box-shadow:0px 0px 12px rgba(204, 204, 204, 0.41);
+}
